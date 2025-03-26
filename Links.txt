@@ -1,0 +1,5 @@
+pagina:  https://asignaturas.info.unlp.edu.ar/course/search.php?q=Fundamentos&areaids=core_course-course
+
+Drive franja: https://drive.google.com/drive/folders/175o_BM6rcDL625sL3ZYL7mw59YtpNRHB
+
+AIUDA: https://www.tutorialspoint.com/pascal/pascal_files_handling.htm
